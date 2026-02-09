@@ -1,3 +1,6 @@
+<img width="300" height="171" alt="image" src="https://github.com/user-attachments/assets/44584b7d-b083-45b2-88d2-bbbf876902be" />
+
+
 # 🌋 Calamity Mod 2.1 (Terraria)
 
 **Calamity Mod** is a large‑scale content expansion for **Terraria**, delivering a significantly more challenging and diverse gameplay experience. The mod introduces **dozens of unique bosses**, **thousands of new items**, expanded progression systems, and rebalanced combat designed for long‑term play.
