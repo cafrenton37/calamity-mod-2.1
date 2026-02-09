@@ -1,5 +1,4 @@
-<img width="2000" height="1125" alt="banner" src="https://github.com/user-attachments/assets/3b13a07d-8853-4405-988a-18fe33b317db" />
-
+![564bd75d932ac143fe0ea6ac761df051](https://github.com/user-attachments/assets/038a465a-55c8-43c4-8dc7-f8e1c94197c5)
 
 # 🌋 Calamity Mod 2.1 (Terraria)
 
